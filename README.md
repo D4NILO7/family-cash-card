@@ -3,3 +3,5 @@ This repository documents my path through the "Building a REST API with Spring B
 
 ## Progress
 - Project initialization (Spring Initializr)
+- API contracts
+- Test Driven Development (TDD)
